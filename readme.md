@@ -4,7 +4,7 @@ This contains my personal bibliography and a script to generate an
 HTML file for various websites. Run the Python script to make HTML and
 PDF versions of the bibliography.
 
-   python make-publications-markdown.py
+    python make-publications-markdown.py
 
 ## TODO:
 
