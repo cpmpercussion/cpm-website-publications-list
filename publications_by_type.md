@@ -1,5 +1,6 @@
 ## Papers in Conference Proceedings
 
+- [@Martin:2016vn]
 - [@Martin:2015cr]
 - [@Martin:2015mz]
 - [@Martin:2015jk]
@@ -15,5 +16,10 @@
 
 ## Theses
 
+- [@Martin:2016nr]
 - [@Martin:2012yq]
 - [@Martin:2009MMus]
+
+## Book Chapters
+
+- [@Martin:2016rm]
