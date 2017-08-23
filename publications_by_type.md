@@ -1,5 +1,7 @@
 ## Papers in Conference Proceedings
 
+- [@Martin:2017ac]
+- [@Martin:2017ab]
 - [@Martin:2016vn]
 - [@Martin:2015cr]
 - [@Martin:2015mz]
