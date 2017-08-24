@@ -1,3 +1,7 @@
+## Journal Articles
+
+- [Martin:2017af] (forthcoming in 2017)
+
 ## Papers in Conference Proceedings
 
 - [@Martin:2017ae]
