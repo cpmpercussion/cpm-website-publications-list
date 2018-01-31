@@ -1,9 +1,16 @@
 ## Journal Articles
 
-- [Martin:2017af] (forthcoming in 2017)
+- [@Martin:2017ai]
+- [@Martin:2017af]
+
+## Book Chapters
+
+- [@Martin:2016rm]
+- [@Martin:2018aa]
 
 ## Papers in Conference Proceedings
 
+- [@Martin:2017ag]
 - [@Martin:2017ae]
 - [@Martin:2017ac]
 - [@Martin:2017ab]
@@ -27,9 +34,6 @@
 - [@Martin:2012yq]
 - [@Martin:2009MMus]
 
-## Book Chapters
-
-- [@Martin:2016rm]
 
 ## Workshop and Working Papers
 
