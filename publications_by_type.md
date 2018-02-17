@@ -34,7 +34,6 @@
 - [@Martin:2012yq]
 - [@Martin:2009MMus]
 
-
 ## Workshop and Working Papers
 
 - [@Martin:2016ab]
