@@ -11,12 +11,12 @@
 ## Book Chapters 
 
 - [@Martin:2018aa]
+- [@Martin:2017aj]
 - [@Martin:2016rm]
 
 ## Refereed Journal Articles
 
 - [@Martin:2017af]
-
 
 ## Fully Refereed Conference Proceedings 
 
@@ -25,11 +25,14 @@
 - [@Martin:2017ac]
 - [@Martin:2017ab]
 - [@Martin:2016vn]
+- [@Martin:2016ab]
+- [@Martin:2016aa]
 - [@Martin:2015cr]
 - [@Martin:2015mz]
 - [@Martin:2015jk]
 - [@Martin:2014xp]
 - [@Martin:2014cr]
+- [@Martin:2014aa]
 - [@Martin:2013fk]
 - [@Martin:2013]
 - [@Martin:2011oz]
@@ -40,21 +43,20 @@
 ### Articles Under Review
 
 - [@Martin:2017ai]
-- Bela Myo Paper
-- Guitar paper
-- Synesthetic Paper
-- Dyret paper
-
-### Refereed Papers in Workshops
-
-- [@Martin:2016ab]
-- [@Martin:2016aa]
+- [@Martin:2018ab]
+- [@Sanchez:2018aa]
+- [@Hopgood:2018aa]
+- [@Nygaard:2018aa]
 
 ### Non-Refereed Conference Proceedings
 
 - [@Martin:2014jk]
 - [@Martin:2012fk]
 - [@Martin:2010rw]
+
+### Non-Refereed Conference Presentations
+
+- [@Martin:2015aa]
 
 ### Open-Source Code Projects
 
@@ -72,8 +74,18 @@
 ### Open Data Sets
 
 - [@Martin:2016fc]
+- [@Martin:2016kq]
 
-### Artistic Performances
+### Research-Led Artistic Performances
 
 - [@Martin:2017ad]
+- [@Martin:2016ac]
+- [@Martin:2013ec]
+- [@Martin:2013aa]
+- [@Lai:2010ab]
+- [@Lai:2010aa]
 
+### Music Recordings
+
+- [@Ensemble-Metatone:2014sf]
+- [@Evolution:2013kc]
