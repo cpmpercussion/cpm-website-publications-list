@@ -56,7 +56,12 @@
 
 ### Non-Refereed Conference Presentations
 
+- [@Martin:2017ao]
+- [@Martin:2017al]
+- [@Martin:2017ak]
+- [@Martin:2017am]
 - [@Martin:2015aa]
+- [@Martin:2014ad]
 
 ### Open-Source Code Projects
 
@@ -76,16 +81,26 @@
 - [@Martin:2016fc]
 - [@Martin:2016kq]
 
-### Research-Led Artistic Performances
+### Selected Research-Led Artistic Performances
 
+- [@Martin:2017zz]
+- [@Jensenius:2017aa]
+- [@Martin:2017an]
 - [@Martin:2017ad]
 - [@Martin:2016ac]
+- [@Helyard:2014aa]
+- [@Martin:2014ab]
+- [@Martin:2014ac]
+- [@Finkelmeier:2013aa]
 - [@Martin:2013ec]
 - [@Martin:2013aa]
 - [@Lai:2010ab]
 - [@Lai:2010aa]
 
-### Music Recordings
+### Selected Music Recordings
 
+- [@Martin:2017ap]
+- [@Martin:2015ab]
 - [@Ensemble-Metatone:2014sf]
+- [@Martin:2013ab]
 - [@Evolution:2013kc]
