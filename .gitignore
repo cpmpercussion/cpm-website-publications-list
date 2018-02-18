@@ -10,3 +10,7 @@ publications.html
 publications_by_type2.html
 
 publications_by_type.html
+docs/_site
+docs/.sass-cache
+docs/.jekyll-metadata
+decra_publications.html
