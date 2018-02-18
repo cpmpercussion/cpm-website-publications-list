@@ -17,6 +17,9 @@ word:
 decra:
 	pandoc $(ARGS) decra_publications.md -o decra_publications.html 
 
+decramarkdown:
+	pandoc $(ARGS) decra_publications.md -o decra_publications_filled_in.md
+
 .PHONY: clean
 clean:
 	rm -f $(OUTNAME).pdf $(OUTNAME).docx $(OUTNAME).tex $(OUTNAME).html
