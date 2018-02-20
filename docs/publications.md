@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+See a [full list of preprints](http://folk.uio.no/charlepm/preprints/) for my publications.
+
 <h2 id="book-chapters">Book Chapters</h2>
 <ul>
 <li><span class="citation" data-cites="Martin:2018aa">Charles P. Martin and Henry Gardner. 2018. Free-improvised rehearsal-as-research for musical HCI (in press). In <em>Music and HCI</em>, Tom Mudd, Simon Holland, Katie Wilkie, Andrew McPherson and Marcelo M. Wanderley (eds.). Springer. <a href="http://folk.uio.no/charlepm/preprints/2018-RehearsalAsResearch.pdf" class="uri">http://folk.uio.no/charlepm/preprints/2018-RehearsalAsResearch.pdf</a></span></li>
