@@ -15,7 +15,11 @@ permalink: /about/
 - [Last Man to Die](http://www.lastmantodie.net/) (2008-2010) Cross-artform group that connect acting, drawing, and percussion through technology in installation/performances.
 - [Strike on Stage](http://charlesmartin.com.au/strike-on-stage/) (2009-2010) Percussion and multimedia performance using computer vision and augmented reality.
 
+![MicroJam demo]({{ "/assets/images/microjam-ipad-demo.jpg" | absolute_url }}){: style="text-align:center" width="150px"}
+
 ### Biography 
+
+![Charles P Martin]({{ "/assets/images/charlesmartin-synth-profile.jpg" | absolute_url }}){: style="float:right" width="300px"}
 
 Charles Martin is a specialist in percussion, computer music, and interactive media from Canberra, Australia. He links percussion with electroacoustic music and other media through new technologies. His works, described as “a thing of rare beauty” in The West Australian have been performed throughout Australia, Europe and the USA and presented at international conferences on computer music and percussion. He also has ten years experience teaching percussion from primary to tertiary levels.
 
@@ -32,3 +36,5 @@ In 2016, Charles joined the Engineering Prediction and Embodied Cognition (EPEC)
 Charles believes strongly in the value of cross-artform collaboration for engaging new audiences with percussion, music, and other arts. In the spirit of hacker culture, he endeavours to “release early, release often”, prototyping his works through rapid performance and revision. He is available as a sound artist and performer for musical, theatrical and installation projects and also as a consultant on interactive technologies in performance.
 
 More information about Charles’ music and research can be found on his website: <a href="http://www.charlesmartin.com.au">www.charlesmartin.com.au</a>
+
+![Charles P Martin]({{ "/assets/images/negative-space.jpg" | absolute_url }}){: style="text-align:center"}

@@ -23,139 +23,18 @@ Education
 -   **Canberra Grammar School** 2003
     Higher School Certificate
 
-Publications
-------------
-
-### Journal Articles
-
--   Percussionist-Centred Design for Touchscreen Digital Musical
-    Instruments. (C. P. Martin). *Contemporary Music Review*. 2017.
-
--   Deep Predictive Models in Interactive Music (C. P. Martin, K. O.
-    Ellefsen, and J. Torresen) *Under Review*. 2017.
-
-### Papers in Conference Proceedings
-
--   Composing an Ensemble Standstill Work for Myo and Bela (C. P.
-    Martin, A. R. Jensenius, and J. Torresen) *Under Review*. 2018.
-
--   Synesthetic: Composing works for Marimba and Automated Lighting (C.
-    Hopgood, C. P. Martin, G. J. Gretarsson) *Under Review*. 2018.
-
--   Bela-Based Augmented Acoustic Guitars for Inverse Sonic
-    Microinteraction (V. E. G. Sanchez, A. Zelechowska, C. P. Martin, K.
-    A. V. Bjerkestrand, V. Johnson, and A. R. Jensenius). *Under
-    Review*. 2018.
-
--   Real-World Evolution Adapts Robot Morphology and Control to Hardware
-    Limitations (T. F. Nygaard, C. P. Martin, E. Samuelsen, J Torresen,
-    and K. Glette). *Under Review*. 2018.
-
--   RoboJam: A Musical Mixture Density Network for Collaborative
-    Touchscreen Interaction (to appear). (C. P. Martin and J. Torresen).
-    *Evolutionary and Biologically Inspired Music, Sound, Art and
-    Design: Proceedings of EvoMUSArt '18*. 2018.
-
--   Deep Models for Ensemble Touch-Screen Improvisation. (C. P.
-    Martin, K. O. Ellefsen, and J. Torresen). In *Proceedings of Audio
-    Mostly*. 2017.
-
--   Exploring social mobile music with tiny touch-screen performances.
-    (C. P. Martin and J. Torresen). In *Proceedings of the 14th Sound
-    and Music Computing Conference (SMC)*. 2017.
-
--   Microjam: An app for sharing tiny touch-screen performances. (C. P.
-    Martin, J. Torresen). In *Proceedings of the International
-    Conference on New Interfaces for Musical Expression*. 2017.
-
--   Intelligent agents and networked buttons improve free-improvised
-    ensemble music-making on touch-screens (C. Martin, H. Gardner, B.
-    Swift, & M. Martin). In *Proceedings of the SIGCHI Conference on
-    Human Factors in Computing System (CHI)*. 2016.
-
--   Music of 18 performances: Evaluating apps and agents with free
-    improvisation (C. Martin, H. Gardner, B. Swift, & M. Martin). In
-    *Proceedings of the Australasian Computer Music Conference
-    (ACMC)*. 2015.
-
--   Tracking Ensemble Performance on Touch-Screens with Gesture
-    Classification and Transition Matrices (C. Martin, H. Gardner, & B.
-    Swift). In *Proceedings of the International Conference on New
-    Interfaces for Musical Expression (NIME)*. 2015.
-    ([link](http://www.nime.org/proceedings/2015/nime2015_242.pdf))
-
--   That Syncing Feeling: Networked Strategies for Enabling Ensemble
-    Creativity in iPad Musicians (C. Martin, H. Gardner). In
-    *Proceedings of CreateWorld*. 2015.
-
--   Exploring Percussive Gesture on iPads with Ensemble Metatone (C.
-    Martin, H. Gardner, & B. Swift). In *Proceedings of the ACM
-    Conference on Human Factors in Computing Systems (CHI)*. 2014.
-
--   MetaTravels and MetaLonsdale: iPad Apps for Percussive Improvisation
-    (C. Martin, H. Gardner, & B. Swift). In *CHI Extended
-    Abstracts*. 2014.
-
--   Making Improvised Music for iPad and Percussion with Ensemble
-    Metatone. In *Proceedings of the Australasian Computer Music
-    Conference (ACMC)*. 2014.
-
--   Integrating Mobile Music with Percussion Performance Practice (C.
-    Martin). In *Proceedings of the International Computer Music
-    Conference (ICMC)*. 2013.
-
--   Performing with a Mobile Computer System for Vibraphone (C. Martin).
-    In *Proceedings of the International Conference on New Interfaces
-    for Musical Expression (NIME)*. 2013.
-    ([link](http://nime.org/proceedings/2013/nime2013_121.pdf))
-
--   Creating Mobile Computer Music for Percussionists: Snow Music (C.
-    Martin). In *Interactive: Proceedings of the Australasian Computer
-    Music Conference (ACMC)*. 2012.
-
--   Strike on Stage: a Percussion and Media Performance (C. Martin, &
-    C.-H. Lai. In *Proceedings of the International Conference on New
-    Interfaces for Musical Expression (NIME)*. 2011.
-    ([link](http://www.nime.org/proceedings/2011/nime2011_142.pdf))
-
--   Audience Interactive Performance in "The Last Man to Die" (C.
-    Martin, H. Cormick, & B. Forster). In *Engagement: Proceedings of
-    the Australasian Computer Music Conference (ACMC)*. 2010.
-
--   Cross-Artform Performance using Networked Interfaces: Last Man to
-    Die's Vital LMTD (C. Martin, H. Cormick, & B. Forster). In
-    *Proceedings of the International Conference on New Interfaces for
-    Musical Expression (NIME)*. 2010.
-    ([link](http://www.nime.org/proceedings/2010/nime2010_204.pdf))
-
-### Book Chapters
-
--   Free-improvised rehearsal-as-research for musical HCI (In press)
-    (C. P. Martin, H. Gardner). In T. Mudd, S. Holland, K. Wilkie, A.
-    McPherson, and M. Wanderley (Eds.), *Music and HCI*, Springer. 2018.
-
--   A percussion-focussed approach to preserving touch-screen
-    improvisation (C. Martin, H. Gardner). In D. England, N.
-    Bryan-Kinns, & T. Schiphorst (Eds.), *Curating the Digital: Spaces
-    for Art and Interaction*, Springer Series on Cultural Computing.
-    Switzerland, Springer International Publishing. 2016.
-
--   Pursuing a sonigraphical ideal at the dawn of the NIME epoch. A
-    commentary on "Sonigraphical Instruments: From FMOL to the
-    reacTable". In M. Lyons, & A. R. Jensenius (Eds.), *The NIME
-    Reader*, Springer. 2016. Appears in
-
-### Theses
+Theses
+------
 
 -   *Apps, Agents, and Improvisation: Ensemble Interaction with
     Touch-Screen Digital Musical Instruments*. PhD Thesis, The
-    Australian National University. 2016.
+    Australian National University. 2016. [hdl:1885/101786](http://hdl.handle.net/1885/101786) [pdf](http://folk.uio.no/charlepm/theses/phd-AppsAgentsImprovisation.pdf)
 
 -   *Mobile Computer Music for Percussionists*. Master's Thesis, Luleå
-    University of Technology. 2012.
+    University of Technology. 2012. [doi:10.13140/RG.2.1.5150.5687](http://dx.doi.org/10.13140/RG.2.1.5150.5687) [pdf](http://folk.uio.no/charlepm/theses/LTU-masters.pdf)
 
 -   *Percussion and Computer in Live Performance*. Master's Thesis,
-    Australian National University. 2009.
+    Australian National University. 2009. [hdl:1885/13813](http://hdl.handle.net/1885/13813) [pdf](http://folk.uio.no/charlepm/theses/ANU-masters.pdf)
 
 -   *Mathematical Foundations of Computer Based Proof Verification*.
     Honours Thesis, Australian National University. 2008.
@@ -239,20 +118,6 @@ Computer Programming and Media
 
 -   **web** HTML/CSS, LAMP stack, Tornado, Drupal, Jekyll, Squarespace.
 
-<!-- Languages {#languages .unnumbered .unnumbered}
----------
-
--   English (native language).
-
--   Norwegian (basic skills - A1). Completed UiO Norwegian for
-    International Researchers basic levels 1, 2, 3, (72 hours of
-    instruction) (2016/2017).
-
--   Swedish (basic skills - A1). Completed basic course in Swedish for
-    international students at LuleåUniversity of Technology (2010/2011).
-
--   Japanese (basic skills). Studied Japanese adult education courses at
-    Canberra Institute of Technology (2008-2010). -->
 
 Grants and Awards
 -----------------
