@@ -26,7 +26,7 @@
     </contributor>
     <category citation-format="numeric"/>
     <category field="engineering"/>
-    <updated>2018-02-20T10:38:39+00:00</updated>
+    <updated>2018-02-20T11:00:35+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <macro name="author">
@@ -97,6 +97,9 @@
       </if>
       <else-if variable="URL">
         <group delimiter=" ">
+          <text term="retrieved" text-case="capitalize-first"/>
+          <date variable="accessed" form="text"/>
+          <text term="from"/>
           <text variable="URL"/>
         </group>
       </else-if>
@@ -118,7 +121,7 @@
             <text macro="book-publisher" suffix="."/>
           </if>
           <else-if type="paper-conference">
-            <group suffix="." delimiter=", ">
+            <group delimiter=", " suffix=". ">
               <group delimiter=" ">
                 <text term="in" text-case="capitalize-first"/>
                 <group delimiter=" ">
@@ -126,6 +129,10 @@
                   <text variable="collection-title" prefix="(" suffix=")"/>
                 </group>
               </group>
+            </group>
+            <group delimiter=", ">
+              <text variable="publisher"/>
+              <text variable="publisher-place"/>
               <text variable="page"/>
             </group>
           </else-if>
