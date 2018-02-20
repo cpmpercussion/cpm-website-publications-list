@@ -6,6 +6,8 @@ permalink: /about/
 
 ### Projects
 
+![MicroJam demo]({{ "/assets/images/microjam-ipad-demo.jpg" | absolute_url }}){: style="float:right" width="300px"}
+
 - [MicroJam](https://microjam.info/) (2016-2017) Exploring Tiny Performances and Prediction with Smartphones at the University of Oslo.
 - [Andromeda is Coming](https://collectedresonances.bandcamp.com/album/andromeda-is-coming) (2015-) Improvised music and media duo with Alec Hunter.
 - [Metatone](https://metatone.net) (2012-2016) Research project extending ensemble improvisation with new music-making iPad apps, gesture recognition and machine learning.
@@ -15,7 +17,6 @@ permalink: /about/
 - [Last Man to Die](http://www.lastmantodie.net/) (2008-2010) Cross-artform group that connect acting, drawing, and percussion through technology in installation/performances.
 - [Strike on Stage](http://charlesmartin.com.au/strike-on-stage/) (2009-2010) Percussion and multimedia performance using computer vision and augmented reality.
 
-![MicroJam demo]({{ "/assets/images/microjam-ipad-demo.jpg" | absolute_url }}){: style="text-align:center" width="150px"}
 
 ### Biography 
 

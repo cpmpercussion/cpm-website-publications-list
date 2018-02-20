@@ -31,7 +31,7 @@ Theses
     Australian National University. 2016. [hdl:1885/101786](http://hdl.handle.net/1885/101786) [pdf](http://folk.uio.no/charlepm/theses/phd-AppsAgentsImprovisation.pdf)
 
 -   *Mobile Computer Music for Percussionists*. Master's Thesis, Luleå
-    University of Technology. 2012. [doi:10.13140/RG.2.1.5150.5687](http://dx.doi.org/10.13140/RG.2.1.5150.5687) [pdf](http://folk.uio.no/charlepm/theses/LTU-masters.pdf)
+    University of Technology. 2012. [doi:10.13140/RG.2.1.1688.9681](http://dx.doi.org/10.13140/RG.2.1.1688.9681) [pdf](http://folk.uio.no/charlepm/theses/LTU-masters.pdf)
 
 -   *Percussion and Computer in Live Performance*. Master's Thesis,
     Australian National University. 2009. [hdl:1885/13813](http://hdl.handle.net/1885/13813) [pdf](http://folk.uio.no/charlepm/theses/ANU-masters.pdf)

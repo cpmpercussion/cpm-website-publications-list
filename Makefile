@@ -1,7 +1,8 @@
 DOCNAME=publications_by_type.md
 OUTNAME=publications_by_type
 REFSFILE=publications.bib
-CSLFILE= sigchi-inline.csl
+# CSLFILE= sigchi-inline.csl
+CSLFILE=acm-inline-doi-and-url.csl
 ARGS=--bibliography $(REFSFILE) --csl $(CSLFILE) --filter pandoc-citeproc
 
 all: pdf html word decra

@@ -4,18 +4,20 @@ title: Music
 permalink: /music/
 ---
 
-Charles is active as a percussionist and electronic musician. He performs with free improvisation groups such as _Andromeda is Coming_ as well as contemporary percussion groups such as _Ensemble Metatone_ and _Ensemble Evolution_.
+![Charles P Martin]({{ "/assets/images/touch-and-tone-profile.jpg" | absolute_url }}){: style="float:right" width="300px"}
+
+Charles is active as a percussionist and electronic musician. He performs with free improvisation groups such as _Andromeda is Coming_, _Canberra Experimental Music Studio_, and _Sverm_, as well as contemporary percussion groups such as _Ensemble Metatone_ and _Ensemble Evolution_.
 
 ### Andromeda is Coming
 
 Andromeda is Coming (Charles Martin and Alexander Hunter) are a Canberra-based duo utilising viola da gamba, percussion and live electronics. 
-This debut album collects a series of free-improvised sections across two field recordings, each capturing Canberra's intersection of urban and bush environments. The improvisations explore paired sound worlds of unconventional instruments where close microphone recordings reveal sonic details and idiosyncrasies of a unique collection instruments.
+This debut album collects a series of free-improvised sections across two field recordings, each capturing Canberra's intersection of urban and bush environments. The improvisations explore paired sound worlds of unconventional instruments where close microphone recordings reveal sonic details and idiosyncrasies.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1872923250/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://collectedresonances.bandcamp.com/album/andromeda-is-coming">Andromeda is Coming by Andromeda is Coming</a></iframe>
 
 ### Nordlig Vinter
 
-Nordlig Vinter is a suite of compositions for percussion and iOS devices created by Charles Martin while living in Piteå, near the Arctic circle in northern Sweden from 2011 to 2012. Harshly cut field recordings reflect the dry, icy environment while minimal jazz inspired melodies on vibraphone and marimba evoke the quiet beauty of such a strange place. 
+Nordlig Vinter is a suite of compositions for percussion and iOS devices created by Charles Martin while living in Piteå, near the Arctic circle in northern Sweden from 2011 to 2012. Harshly cut field recordings reflect the dry, icy environment while minimal jazz inspired melodies on vibraphone and marimba evoke the quiet beauty of such a strange place.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=225517770/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://charlesmartin.bandcamp.com/album/nordlig-vinter">Nordlig Vinter by Charles Martin</a></iframe>
 
