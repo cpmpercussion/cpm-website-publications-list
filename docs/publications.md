@@ -6,6 +6,11 @@ permalink: /publications/
 
 See a [full list of preprints](http://folk.uio.no/charlepm/preprints/) for my publications.
 
+{% bibtex _plugins/owens_web references.bib %}
+
+<!-- {% bibliography %} -->
+
+
 <h2 id="book-chapters">Book Chapters</h2>
 <ul>
 <li><span class="citation" data-cites="Martin:2018aa">Charles P. Martin and Henry Gardner. 2018. Free-improvised rehearsal-as-research for musical HCI (in press). In <em>Music and HCI</em>, Tom Mudd, Simon Holland, Katie Wilkie, Andrew McPherson and Marcelo M. Wanderley (eds.). Springer. <a href="http://folk.uio.no/charlepm/preprints/2018-RehearsalAsResearch.pdf" class="uri">http://folk.uio.no/charlepm/preprints/2018-RehearsalAsResearch.pdf</a></span></li>
@@ -102,3 +107,21 @@ See a [full list of preprints](http://folk.uio.no/charlepm/preprints/) for my pu
 <li><span class="citation" data-cites="Martin:2013ab">Charles Martin. 2013. Nordlig Vinter [album]. <a href="https://charlesmartin.bandcamp.com/album/nordlig-vinter" class="uri">https://charlesmartin.bandcamp.com/album/nordlig-vinter</a></span></li>
 <li><span class="citation" data-cites="Evolution:2013kc">Charles Martin, Maria Finkelmeier, and Jacob Remington. 2013. Ensemble Evolution: Sounds from the treetops. <a href="https://ensembleevolution.bandcamp.com/album/sounds-from-the-treetops" class="uri">https://ensembleevolution.bandcamp.com/album/sounds-from-the-treetops</a></span></li>
 </ul>
+
+<!-- <script>
+var bqs = document.getElementsByTagName("blockquote");
+for(var i = 0; i < bqs.length; i++) {
+  bqs[i].style.display = "none";
+  var ab = document.createElement('a');
+  ab.setAttribute('href', '#');
+  ab.setAttribute('onClick', 'toggleBq('+i+'); return false;');
+  ab.appendChild(document.createTextNode("[abstract]"));
+  bqs[i].parentNode.insertBefore(ab,bqs[i]);
+}
+function toggleBq(i) {
+  if (bqs[i].style.display == "none")  
+    bqs[i].style.display = "block";
+  else
+    bqs[i].style.display = "none";
+}
+</script> -->
