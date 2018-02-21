@@ -34,7 +34,7 @@ module Jekyll
 
   class BibtexTag < Liquid::Tag
     # The options that are passed to bibtex2html
-    Options = "-nofooter -noheader -nokeywords -noabstract -nokeys -nodoc -dl -a -nf preprint 'preprint' -d"
+    Options = "-nofooter -noheader -nokeywords -noabstract -nokeys -nodoc -dl -a -nf preprint 'preprint' -d -nf video 'video'"
 
     def split_params(params)
       params.split(" ").map(&:strip)
