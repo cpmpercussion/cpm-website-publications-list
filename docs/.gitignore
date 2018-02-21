@@ -1,3 +1,5 @@
 _site
 .sass-cache
 .jekyll-metadata
+docs/publications/references.bib
+docs/_bibliography/references.bib
