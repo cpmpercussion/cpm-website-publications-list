@@ -17,5 +17,5 @@ decra_publications.html
 _site
 .sass-cache
 .jekyll-metadata
-docs/publications/references.bib
-docs/_bibliography/references.bib
+docs/publications/*.bib
+docs/_bibliography/*.bib

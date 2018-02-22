@@ -6,10 +6,56 @@ permalink: /publications/
 
 See a [full list of preprints](http://folk.uio.no/charlepm/preprints/) for my publications.
 
-{% bibtex _plugins/owens_web references.bib %}
+<!-- {% bibtex _plugins/owens_web references.bib %} -->
 
 <!-- {% bibliography %} -->
 
+## Book Chapters
+
+{% bibtex _plugins/owens_web bookchapters.bib %}
+
+## Refereed Journal Articles
+
+{% bibtex _plugins/owens_web journalarticles.bib %}
+
+## Refereed Conference Proceedings
+
+{% bibtex _plugins/owens_web refereedconferencepapers.bib %}
+
+
+## Other Publication Outputs
+
+
+### Articles Under Review
+
+{% bibtex _plugins/owens_web underreview.bib %}
+
+### Non-Refereed Conference Proceedings
+
+{% bibtex _plugins/owens_web nonrefereedconferencepapers.bib %}
+
+### Non-Refereed Conference Presentations
+
+{% bibtex _plugins/owens_web nonrefereedconferencepresentations.bib %}
+
+### Open-Source Code Projects
+
+{% bibtex _plugins/owens_web opensourceproject.bib %}
+
+### Open Data Sets
+
+{% bibtex _plugins/owens_web opendata.bib %}
+
+### Selected Research-Led Artistic Performances
+
+{% bibtex _plugins/owens_web artisticperformance.bib %}
+
+### Selected Music Recordings
+
+{% bibtex _plugins/owens_web musicrecording.bib %}
+
+
+# Publications static.
 
 <h2 id="book-chapters">Book Chapters</h2>
 <ul>
