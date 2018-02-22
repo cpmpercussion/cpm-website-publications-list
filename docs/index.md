@@ -9,9 +9,7 @@ layout: home
 
 <a href="https://orcid.org/0000-0001-5683-7529" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-5683-7529</a>
 
-Charles Martin is a specialist in percussion, computer music, and interactive media from Canberra, Australia. He links percussion with electroacoustic music and other media through new technologies. In 2016, Charles joined the [Engineering Prediction and Embodied Cognition (EPEC) project](http://www.mn.uio.no/ifi/english/research/projects/epec/) at the University of Oslo, where he is developing new ways to predict musical intentions and performances in smartphone apps. 
-
-From 2018, Charles is also a researcher in the [RITMO Centre for Interdisciplinary Studies in Rhythm, Time, and Motion](https://www.hf.uio.no/ritmo/english/).
+Charles Martin is a specialist in percussion, music technology, and musical AI from Australia. He links percussion with electroacoustic music and other media through new technologies. He is the author of musical iPad app, PhaseRings, and founded touchscreen ensemble, Ensemble Metatone, percussion group, Ensemble Evolution, and cross-artform group, Last Man to Die. Charles' did his doctoral research at the Australian National University developing intelligent agents that mediate ensemble performance. At present, Charles is a postdoctoral fellow at the University of Oslo in the [Engineering Prediction and Embodied Cognition (EPEC) project](http://www.mn.uio.no/ifi/english/research/projects/epec/) and the [RITMO Centre for Interdisciplinary Studies in Rhythm, Time, and Motion](https://www.hf.uio.no/ritmo/english/) where he is developing new ways to predict musical intentions and performances in smartphone apps and embedded devices.
 
 ### Research Interests:
 
