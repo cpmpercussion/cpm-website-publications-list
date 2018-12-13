@@ -48,7 +48,7 @@ Results suggest that each model could be used in applications using short amount
 
 Here's some work from students I've worked with, but not directly supervised.
 
-### Preben Ødegård Aas: Getting a Grip on Musical Interaction - An exploratory study of embodied sound design through a grid-based system
+### Preben Ødegård Aas: [Getting a Grip on Musical Interaction - An exploratory study of embodied sound design through a grid-based system](http://urn.nb.no/URN:NBN:no-65392)
 
 #### Abstract
 
@@ -68,7 +68,7 @@ The thesis answers the research question by making four contributions; the grid-
         URL = {http://urn.nb.no/URN:NBN:no-65392},
     }
 
-### [Mathias Ciarlo Thorstensen: Visualization of Robotic Sensor Data with Augmented Reality](http://urn.nb.no/URN:NBN:no-60160)
+### Mathias Ciarlo Thorstensen: [Visualization of Robotic Sensor Data with Augmented Reality](http://urn.nb.no/URN:NBN:no-60160)
 
 #### Abstract
 
