@@ -19,3 +19,5 @@ _site
 .jekyll-metadata
 docs/publications/*.bib
 docs/_bibliography/*.bib
+*.mp4
+
