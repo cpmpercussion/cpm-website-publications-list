@@ -8,7 +8,7 @@ permalink: /students/
 
 Here's some links to research produced by my graduate students. If you'd like to work on something like this, [get in touch](/about.md)!
 
-### [Benedikte Wallace: Predictive songwriting with concatenative accompaniment](http://urn.nb.no/URN:NBN:no-65381)
+### [Benedikte Wallace: Predictive songwriting with concatenative accompaniment](http://folk.uio.no/charlepm/student_theses/Wallace-Predictive_Songwriting_with_Concatenative_Accompaniment.pdf)
 
 #### Abstract:
 
