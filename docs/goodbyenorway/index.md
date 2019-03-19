@@ -18,11 +18,11 @@ Ideal day to pick stuff up is Sunday 31/3/2019.
 
 ### Corner sofa bed (Ikea) 2011? -- Free
 
-Pretty cool corner sofa that turns into a bed. You can put the corner on either side. Comes with sheet / duvet / pillows! WOW!
+Pretty cool corner sofa that turns into a bed, got off some Icelandic friends when they were leaving Oslo, let's continue the circle of couch giving!
 
-Kind of a good story, I studied with some Icelanders in Sweden who bought this around 2011 when they moved to Oslo. When Christina and I moved here, they were leaving, so we got it.
+You can put the corner on either side. Comes with sheet / duvet / pillows! WOW!
 
-It's pretty faded and a bit stained, as if someone spilled a whole cup of coffee on it and then left it in the sun all summer, but still looks ok and is comfortable and super convenient for hosting guests.
+It's pretty faded and a bit coffee stained, but is still comfy, cleanish, and convenient for hosting guests.
 
 Comes apart into small bits, so can fit in a car. Probably. Maybe two trips?
 
