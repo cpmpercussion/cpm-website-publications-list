@@ -30,16 +30,16 @@ Comes apart into small bits, so can fit in a car. Probably. Maybe two trips?
 ![](couch2.jpg)
 ![](couch3.jpg)
 
-### Hemnes bedside tables (Ikea) -- 2016 -- 100Kr each
+<!-- ### Hemnes bedside tables (Ikea) -- 2016 -- 100Kr each
 
 ![](bedtables1.jpg)
 ![](bedtables2.jpg)
 
 - H: 70
 - W: 46
-- D: 35
+- D: 35 -->
 
-### Small Desk (Ikea) -- 2016 -- 150Kr
+<!-- ### Micke Desk (Ikea) -- 2016 -- 150Kr
 
 ![](desk1.jpg)
 ![](desk2.jpg)
@@ -48,7 +48,7 @@ Nice small desk for small space. In pretty good shape, but some subtle damage to
 
 - H: 75
 - W: 73
-- D: 50
+- D: 50 -->
 
 ### Hemnes chest of drawers (Ikea) -- 2017 -- 200Kr
 
@@ -72,7 +72,7 @@ Table with two expanding leaves
 - W open: each leaf adds 39
 - D: 90
 
-### 3 Chairs (Ikea) --- 2007ish -- Free
+<!-- ### 3 Chairs (Ikea) --- 2007ish -- Free
 
 ![](chair1.jpg)
 
@@ -83,7 +83,7 @@ Pretty ok looking black Ikea chairs with white upholstery. I cleaned the upholst
 Nice little furniture set for balconies. Table had snow on it, so needs oil (d'oh), chairs in good shape.
 
 ![](outdoorset1.jpg)
-![](outdoorset2.jpg)
+![](outdoorset2.jpg) -->
 
 ## Appliances
 
@@ -107,8 +107,8 @@ Proper photo to come.
 
 ![](kettle.jpg)
 
-### Sewing Machine -- maybe taken.
-
+<!-- ### Sewing Machine -- maybe taken.
+ -->
 ### Humidifier -- 100kr
 
 Proper photo to come.
