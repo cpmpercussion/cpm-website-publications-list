@@ -6,7 +6,32 @@ permalink: /students/
 
 ## Research Students
 
-Here's some links to research produced by my graduate students. If you'd like to work on something like this, [get in touch](/about.md)!
+Here's some links to research produced by my graduate students. 
+
+<!-- If you'd like to work on something like this, [get in touch](/about.md)! -->
+
+### [Viktoria Røsjø: Variational Autoencoders with Mixture Density Networks for Sequence Prediction in Algorithmic Composition - A Musical World Model](https://www.duo.uio.no/bitstream/handle/10852/67479/1/Variational_Autoencoders_for_Algorithmic_Composition.pdf)
+
+#### Abstract:
+
+Does music contain a hierarchical component which is relevant when teaching a machine learning model to create music? And, can a machine learning model learn long term structure in music, based on its own perception of data?
+
+In 2014, Diedrik P. Kingma and Max Welling presented a novel technique in generative modelling, called the Variational Autoencoder (VAE). The method presented a technique for learning intractable data distributions, and at the same time representing the data in a compressed latent space. From this latent space, it was possible to sample new datapoints, with similar features as those from the true data set. This method was quickly adopted for modelling real valued data, with both a fixed dimensionality, and in sequences. Through the course of 2017 and 2018, Google Brain released two variational autoencoders for sequential data: SketchRNN for sketch drawings, and MusicVAE for symbolic generation of music. These models inspire the variational autoencoder framework used in this thesis. The MusicVAE has a hierarchical element to assist in creation of music: a recurrent neural network function as a composer to manage the structural development of melodies. Their studies showed that the hierarchical component helped create more probable musical compositions than the formal VAE. MusicVAE is taken as a starting point for this thesis; however, rather than the recurrent neural network, a new architecture for generating high-level structure in music is introduced, using a mixture density network.
+
+The Mixture Density Network, a network that can predict multi-valued output, was developed in 1994 by Christopher M. Bishop. The model can utilize any kind of network to condition the probability distributions. In 2018, David Ha and Ju ̈rgen Schmidhuber used a recurrent mixture density network (MDRNN) for predicting latent vectors in a reinforcement learning model. This has inspired the idea of replacing the recurrent composer from the MusicVAE with a MDRNN. This thesis introduces this novel architecture, in which musical compositions are guided by generating sequences of vectors from a VAE’s compressed latent space. This is a novel architecture, in which compositions of music is guided by learned sequences of latent vectors. The model is named Mixture Composer Variational Autoencoder, or MCVAE.
+Evaluation of the models showed that a difference in the models was noticeable. An evaluation with human annotators shows that music that has been composed by the MCVAE has noticeably better musical qualities than music generated from the formal VAE. Another evaluation, using a 5-gram model show that music made with guidance from the MDN creates melodies which are a lot more probable than music made without guidance.
+
+#### BibTex:
+
+    @mastersthesis{Rosjo:2019aa,
+        Author = {Viktoria Røsjø},
+        Title = {Variational Autoencoders with Mixture Density Networks for Sequence Prediction in Algorithmic Composition - A Musical World Model},
+        School = {University of Oslo},
+        Year = {2019},
+        Address = {Oslo, Norway},
+        URL = {http://urn.nb.no/URN:NBN:no-70656},
+    }
+
 
 ### [Benedikte Wallace: Predictive songwriting with concatenative accompaniment](http://folk.uio.no/charlepm/student_theses/Wallace-Predictive_Songwriting_with_Concatenative_Accompaniment.pdf)
 
