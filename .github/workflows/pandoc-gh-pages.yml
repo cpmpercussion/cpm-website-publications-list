@@ -1,0 +1,27 @@
+name: Build and Publis
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: create output dir
+        run: |
+          mkdir output  # create output dir
+
+      - uses: docker://pandoc/core
+        with:
+          args: --standalone --citeproc --csl apa.csl --output=output/index.html art-and-interaction.md
+          
+      - uses: actions/upload-artifact@master
+        with:
+          name: output
+          path: output
+          
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
