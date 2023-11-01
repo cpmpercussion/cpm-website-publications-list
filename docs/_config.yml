@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dr Charles Patrick Martin
-email: cpm@charlesmartin.com.au
+email: cpm@charlesmartin.au
 description: >- # this means to ignore newlines until "baseurl:"
   Charles Martin is a researcher specialising in music 
   technology and machine learning at the Australian National University
